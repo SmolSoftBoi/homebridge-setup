@@ -1,0 +1,6 @@
+# Git Ignore
+#
+# Copyright © 2017 Kristian Matthews. All rights reserved.
+
+# macOS
+.DS_Store
