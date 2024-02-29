@@ -24,7 +24,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [SmolSoftBoi/homebridge-setup](https://github.com/SmolSoftBoi/homebridge-setup)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|2<br/>Tools used|01/17/24 <br/>Report generated|
+|2<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
